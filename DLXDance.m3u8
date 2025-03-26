@@ -1,0 +1,6 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/dlx-dance.webp" group-title="Music",DLX Dance
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_a0",NAME="audio_0",DEFAULT=YES,URI="https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/67e3f873ec247_13358809_2503261252_4.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=5090800,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2",AUDIO="group_a0"
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/67e3f873ec247_13358809_2503261252_1.m3u8
