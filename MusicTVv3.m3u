@@ -7,7 +7,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="MTV Hits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png" group-title="Music",MTV Hits
-https://tvcdnpotok.com/3MNPxXE_5lR595OcMvypwQ/204/1743225101/index.m3u8
+https://s.tivix.co/204/index.m3u8?k=1743275670p441i601i131i712S8c9a3987f9e7dfe62308a2624a389d72
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="DELUXE DANCE by Kontor.de" tvg-logo="https://smotret.tv/images/dlx-dance.webp" group-title="Music",DLX Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
@@ -19,10 +19,10 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="MTV 00s.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music",MTV 00's
-https://tvcdnpotok.com/zK-SDSwJnHYr7mo72BZTIA/175/1743225244/index.m3u8
+https://s.tivix.co/175/index.m3u8?k=1743275744p441i601i131i712S408ea89319c68ed82cfeb7cfb2510fdb
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="MTV 80s UK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="Music",MTV 80's
-https://tvcdnpotok.com/Z0q8sOCKxLzSkYccgYSuYw/174/1743225307/index.m3u8
+https://s.tivix.co/174/index.m3u8?k=1743275773p441i601i131i712S92d510fd3b3290e9b06059d92b23c8da
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="MTV 90s UK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music",MTV 90's
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=39803&token=b4d79d087ae7c27aa61cb3023b789e89
