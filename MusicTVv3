@@ -4,19 +4,25 @@
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="Music",Trace UK HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/012ca6c3-a981-407d-b113-3267e3c3f61b/3.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/dlx-dance.webp" group-title="Music",DLX Dance
-https://raw.githubusercontent.com/techgenius1/Music-IPTV/refs/heads/main/DLXDance.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Music",DLX Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da848cad25415896b47f4d2c22b8" group-title="Music",VIVA TV
-https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s" group-title="Music",kronehitTV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png" group-title="Music",538TV
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Music",NOW 80'S
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900491.webp" group-title="Music",IMPACT TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png" group-title="Music",PowerTV HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
