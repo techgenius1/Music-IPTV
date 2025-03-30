@@ -1,37 +1,25 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/SdgjEcRfu8.xml"
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="Trace Hits.ch" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="Music",Trace UK HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/1b1fa787-cdbe-429e-aa46-e897eb1e7bf8/3.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="Trace Urban.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Music",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="Trace Hits.ch" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="Music",Trace UK HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s" group-title="Music",kronehitTV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="MTV Hits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png" group-title="Music",MTV Hits
-https://s.tivix.co/204/index.m3u8?k=1743310297p441i601i131i712Sa0acc38ff3b4e1b7a491bfce81682e4c
+#EXTINF:-1 tvg-id="NOW 80s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Music",NOW 80'S
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/cb553e1f7c6c648d9bd43e66d6ef41a4df243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751c19e0a957f378bbdbe306f2c180680585ee2be5da5edf55c17db69a9b81b1c882f11eed45fc8d54abb9ddd5bc8119b25a015ccc6f3d8d2178a84c001eb6d925cc2a65007fbb44bd1af69a3c8916c20ee1e42243f66966817632c46e2665055f985a0d7f67260bcec04856139ba42f72715bdf919c859f69b2b81a9bad1430b5ecea10b3074f6b5f2cc93a150ccaa8798ed86645eb98f41f71fec4a12030b72ffd8de068bd310d99f3091b5671f2dccab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e97fa1e98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4f9b06b24c68b558c0fe4bd13ff7b1dd420a5ea50d852d98801196/2/1280x720_3801600/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900491.webp" group-title="Music",IMPACT TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="DELUXE DANCE by Kontor.de" tvg-logo="https://smotret.tv/images/dlx-dance.webp" group-title="Music",DLX Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="DELUXE MUSIC.de" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Music",DLX Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s" group-title="Music",kronehitTV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="MTV 00s.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music",MTV 00's
-https://s.tivix.co/175/index.m3u8?k=1743311276p441i601i131i712S020bab4fc1edf1fb4531df06f0083ac2
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="MTV 80s UK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="Music",MTV 80's
-https://s.tivix.co/174/index.m3u8?k=1743311400p441i601i131i712S560c3d95927cb85cc515e98fd26bd50e
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="MTV 90s UK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music",MTV 90's
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=39803&token=b4d79d087ae7c27aa61cb3023b789e89
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="NOW 80s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Music",NOW 80'S
-https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900491.webp" group-title="Music",IMPACT TV Dance
-https://online.tvimpact.live/hls/dancetv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="POWER TV HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png" group-title="Music",PowerTV HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
@@ -56,8 +44,3 @@ https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?token=MS9jMzRnKzR2bEtZM
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="DREAM TÜRK.tr" tvg-logo="https://static.dreamturk.com.tr/assets/dist/images/dream-turk-logoV2.png" group-title="Music",DreamTürk TV
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="MTV Hits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png" group-title="Music",MTV Hits trial
-#EXTVLCOPT:http-referrer=http://ip.tivix.co/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://s.tivix.co/204/index.m3u8?k=1743310297p441i601i131i712Sa0acc38ff3b4e1b7a491bfce81682e4c
