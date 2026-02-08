@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/SdgjEcRfu8.xml"
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="Trace Hits.ch" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="Music",Trace UK HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.dpname=distrotv&ads.rnd=qmcc&ads.env_i=f00c6378-357f-4d23-b248-83cb20ba93c6&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=448&ads.height=252&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=31.223.72.140&ads.geo=TR&ads.lat=41.02140&ads.long=28.99480&ads.dma=&ads.geoType=2&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=130974&ads.show_id=5155&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=TRACE%20UK&ads.episodetitle=TRACE%20UK&ads.keywords=Music%2CArtists%2CBands%2CCultural%20interests&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=DopLG_-BpnS
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="Trace Urban.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Music",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
