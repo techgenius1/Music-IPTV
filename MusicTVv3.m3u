@@ -9,8 +9,8 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s" group-title="Music",kronehitTV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="NOW 80s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Music",NOW 80'S
-https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/cb553e1f7c6c648d9bd43e66d6ef41a4df243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751c19e0a957f378bbdbe306f2c180680585ee2be5da5edf55c17db69a9b81b1c882f11eed45fc8d54abb9ddd5bc8119b25a015ccc6f3d8d2178a84c001eb6d925cc2a65007fbb44bd1af69a3c8916c20ee1e42243f66966817632c46e2665055f985a0d7f67260bcec04856139ba42f72715bdf919c859f69b2b81a9bad1430b5ecea10b3074f6b5f2cc93a150ccaa8798ed86645eb98f41f71fec4a12030b72ffd8de068bd310d99f3091b5671f2dccab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e97fa1e98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4f9b06b24c68b558c0fe4bd13ff7b1dd420a5ea50d852d98801196/2/1280x720_3801600/index.m3u8
+#EXTINF:-1 tvg-id="NOW 80s.uk" tvg-logo="https://pbs.twimg.com/media/GQG6CkmW4AALRJg.jpg" group-title="Music",NOW 90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900491.webp" group-title="Music",IMPACT TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
