@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/SdgjEcRfu8.xml"
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="Trace Hits.ch" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="Music",Trace UK HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.dpname=distrotv&ads.rnd=qmcc&ads.env_i=f00c6378-357f-4d23-b248-83cb20ba93c6&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=448&ads.height=252&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=31.223.72.140&ads.geo=TR&ads.lat=41.02140&ads.long=28.99480&ads.dma=&ads.geoType=2&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=130974&ads.show_id=5155&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=TRACE%20UK&ads.episodetitle=TRACE%20UK&ads.keywords=Music%2CArtists%2CBands%2CCultural%20interests&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=DopLG_-BpnS
+https://jmp2.uk/stvp-GBBD19000026B
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="Trace Urban.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Music",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
@@ -20,6 +20,34 @@ https://online.tvimpact.live/hls/dancetv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900865.jpg" group-title="Music",XITE 90s Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/6e3f5694-2806-4692-b90a-d9fbb78052ca/3.m3u8
+#EXTINF:-1 channel-id="samsung-CABD1200038NZ" tvg-id="CABD1200038NZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20250812T003400SQUARE.png" group-title="Music" tvg-chno="4316",XITE Hits
+https://jmp2.uk/stvp-CABD1200038NZ
+#EXTINF:-1 channel-id="samsung-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png" group-title="Music" tvg-chno="4316",XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1 channel-id="samsung-CABB2600018T4" tvg-id="CABB2600018T4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20250812T003206SQUARE.png" group-title="Music" tvg-chno="4318",XITE 90s Throwback
+https://jmp2.uk/stvp-CABB2600018T4
+#EXTINF:-1 channel-id="samsung-USBB320000647" tvg-id="USBB320000647" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20250421T234923SQUARE.png" group-title="Music" tvg-chno="4318",XITE 80s Flashback
+https://jmp2.uk/stvp-USBB320000647
+#EXTINF:-1 channel-id="samsung-CABB2600017ZU" tvg-id="CABB2600017ZU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600017ZU_20250812T003203SQUARE.png" group-title="Music" tvg-chno="4319",XITE 80s Flashback
+https://jmp2.uk/stvp-CABB2600017ZU
+#EXTINF:-1 channel-id="samsung-USBB3200007AK" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png" group-title="Music" tvg-chno="4319",XITE 90s Throwback
+https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1 channel-id="samsung-CABD17000043J" tvg-id="CABD17000043J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20260203T191159SQUARE.png" group-title="Music" tvg-chno="4323",XITE Game Day Hits
+https://jmp2.uk/stvp-CABD17000043J
+#EXTINF:-1 channel-id="samsung-USBD350003932" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20260127T205325SQUARE.png" group-title="Music" tvg-chno="4323",XITE Game Day Hits
+https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1 channel-id="samsung-GBBC2100002HP" tvg-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Music" tvg-chno="4685",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1 channel-id="samsung-GBBC19000017V" tvg-id="GBBC19000017V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Music" tvg-chno="4683",Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
+#EXTINF:-1 channel-id="samsung-AT23000017K" tvg-id="AT23000017K" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT23000017K_20250107T022105SQUARE.png" group-title="Music" tvg-chno="4698",Deluxe Dance By Kontor
+https://jmp2.uk/stvp-AT23000017K
+#EXTINF:-1 channel-id="samsung-GB300033HI" tvg-id="GB300033HI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300033HI_20250218T040037SQUARE.png" group-title="Music" tvg-chno="4712",Now 90's & 00's
+https://jmp2.uk/stvp-GB300033HI
+#EXTINF:-1 channel-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20251013T235740SQUARE.png" group-title="Music" tvg-chno="4397",Vevo 2K
+https://jmp2.uk/stvp-USBB4400015F5
+#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20251013T235738SQUARE.png" group-title="Music" tvg-chno="4400",Vevo 2010s
+https://jmp2.uk/stvp-USBD120002431
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="DELUXE DANCE by Kontor.de" tvg-logo="https://smotret.tv/images/dlx-dance.webp" group-title="Music",DLX Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
