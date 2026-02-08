@@ -15,6 +15,9 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/p
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900491.webp" group-title="Music",IMPACT TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900865.jpg" group-title="Music",XITE 90s Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/6e3f5694-2806-4692-b90a-d9fbb78052ca/3.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="DELUXE DANCE by Kontor.de" tvg-logo="https://smotret.tv/images/dlx-dance.webp" group-title="Music",DLX Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/6987ee753bd83_13358807_2602080201_2.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
