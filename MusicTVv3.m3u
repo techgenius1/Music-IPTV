@@ -9,6 +9,9 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s" group-title="Music",kronehitTV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Vevo_2016_Logo.svg" group-title="Music",vevo POP
+https://amg00056-vevotv-vevopopau-samsungau-6lt65.amagi.tv/ts-us-w2-n2/playlist/amg00056-vevotv-vevopopau-samsungau/cb573f1f6570678d84cd3d78d1f54082af7b3dcb0e6c886470af4a9765d96e07d1feae9ab95bee6e578f6281335331045677895fd47d05c0c07ab1414329442fc587b37fde871219c4814d7f7cec320150fa090bd03747768bbe185cd73fb4345547ee5e2307638bec44ff7f50c19d0f8d797cdda5d5323979085dfd1567c598c50dddcb6f21ba7e97d5590ace7a0cc5bd78fba57f9b1b0096ac69b207b24dccb8ceb3379c9fa4a91aea13e33a0b4d2e3febe8cb4f842fd489ce1351b5623c471057f3afd9992459d513120da8ad8dd7ed98623634d66685d59f20e12451f693cc335587ab2185b8a9d05244768dd74f6029a2f0acb01d5459994bf4b8e0d17f7dd6a35a2807814cd626393799f98b45d29855bbb9218cb86c4678d2871fcac9e5cdbff9cd6d9926c1c8bbc96915003344248f4fa79c62c3668c2cff8043533127238c9451d689d05a42001ed0fa11be742eb7d0858cc80041bc471e54ed72d058454dc2307e73ec29b9b7336e802a0fc75910f45a3c8c47bc8824faa9deef6468e33ea68b2dad43d3ba40607d2a0eb2255b34ce249fc80c9d/36/1920x1080_7333040/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="NOW 80s.uk" tvg-logo="https://pbs.twimg.com/media/GQG6CkmW4AALRJg.jpg" group-title="Music",NOW 90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
