@@ -1,80 +1,47 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/SdgjEcRfu8.xml"
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="Trace Hits.ch" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="Music",Trace UK HD
-https://jmp2.uk/stvp-GBBD19000026B
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="Trace Urban.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Music",Trace Urban HD
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD19000026B_20250107T030813SQUARE.png" group-title="Music" tvg-chno="4716",Trace UK
+https://d2l4tng0wskzvn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i4w0aagbo260c/Trace_GB.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD19000026B
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900001SC_20250107T025823SQUARE.png" group-title="Music" tvg-chno="4717",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s" group-title="Music",kronehitTV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/1000x1000_Vevo-pop.png" group-title="Music",vevo POP
-https://amg00056-vevotv-vevopopau-samsungau-6lt65.amagi.tv/ts-us-w2-n2/playlist/amg00056-vevotv-vevopopau-samsungau/cb573f1f6570678d84cd3d78d1f54082af7b3dcb0e6c886470af4a9765d96e07d1feae9ab95bee6e578f6281335331045677895fd47d05c0c07ab1414329442fc587b37fde871219c4814d7f7cec320150fa090bd03747768bbe185cd73fb4345547ee5e2307638bec44ff7f50c19d0f8d797cdda5d5323979085dfd1567c598c50dddcb6f21ba7e97d5590ace7a0cc5bd78fba57f9b1b0096ac69b207b24dccb8ceb3379c9fa4a91aea13e33a0b4d2e3febe8cb4f842fd489ce1351b5623c471057f3afd9992459d513120da8ad8dd7ed98623634d66685d59f20e12451f693cc335587ab2185b8a9d05244768dd74f6029a2f0acb01d5459994bf4b8e0d17f7dd6a35a2807814cd626393799f98b45d29855bbb9218cb86c4678d2871fcac9e5cdbff9cd6d9926c1c8bbc96915003344248f4fa79c62c3668c2cff8043533127238c9451d689d05a42001ed0fa11be742eb7d0858cc80041bc471e54ed72d058454dc2307e73ec29b9b7336e802a0fc75910f45a3c8c47bc8824faa9deef6468e33ea68b2dad43d3ba40607d2a0eb2255b34ce249fc80c9d/36/1920x1080_7333040/index.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="NOW 80s.uk" tvg-logo="https://pbs.twimg.com/media/GQG6CkmW4AALRJg.jpg" group-title="Music",NOW 90s00s
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900491.webp" group-title="Music",IMPACT TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900865.jpg" group-title="Music",XITE 90s Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/6e3f5694-2806-4692-b90a-d9fbb78052ca/3.m3u8
-#EXTINF:-1 channel-id="samsung-CABD1200038NZ" tvg-id="CABD1200038NZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20250812T003400SQUARE.png" group-title="Music" tvg-chno="4316",XITE Hits
-https://jmp2.uk/stvp-CABD1200038NZ
-#EXTINF:-1 channel-id="samsung-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png" group-title="Music" tvg-chno="4316",XITE Hits
-https://jmp2.uk/stvp-USBD3300004RH
-#EXTINF:-1 channel-id="samsung-CABB2600018T4" tvg-id="CABB2600018T4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20250812T003206SQUARE.png" group-title="Music" tvg-chno="4318",XITE 90s Throwback
-https://jmp2.uk/stvp-CABB2600018T4
-#EXTINF:-1 channel-id="samsung-USBB320000647" tvg-id="USBB320000647" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20250421T234923SQUARE.png" group-title="Music" tvg-chno="4318",XITE 80s Flashback
-https://jmp2.uk/stvp-USBB320000647
-#EXTINF:-1 channel-id="samsung-CABB2600017ZU" tvg-id="CABB2600017ZU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600017ZU_20250812T003203SQUARE.png" group-title="Music" tvg-chno="4319",XITE 80s Flashback
-https://jmp2.uk/stvp-CABB2600017ZU
-#EXTINF:-1 channel-id="samsung-USBB3200007AK" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png" group-title="Music" tvg-chno="4319",XITE 90s Throwback
-https://jmp2.uk/stvp-USBB3200007AK
-#EXTINF:-1 channel-id="samsung-CABD17000043J" tvg-id="CABD17000043J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20260203T191159SQUARE.png" group-title="Music" tvg-chno="4323",XITE Game Day Hits
-https://jmp2.uk/stvp-CABD17000043J
-#EXTINF:-1 channel-id="samsung-USBD350003932" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20260127T205325SQUARE.png" group-title="Music" tvg-chno="4323",XITE Game Day Hits
-https://jmp2.uk/stvp-USBD350003932
-#EXTINF:-1 channel-id="samsung-GBBC2100002HP" tvg-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Music" tvg-chno="4685",Vevo '90s & '00s
-https://jmp2.uk/stvp-GBBC2100002HP
-#EXTINF:-1 channel-id="samsung-GBBC19000017V" tvg-id="GBBC19000017V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Music" tvg-chno="4683",Vevo Pop
-https://jmp2.uk/stvp-GBBC19000017V
-#EXTINF:-1 channel-id="samsung-AT23000017K" tvg-id="AT23000017K" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT23000017K_20250107T022105SQUARE.png" group-title="Music" tvg-chno="4698",Deluxe Dance By Kontor
-https://jmp2.uk/stvp-AT23000017K
-#EXTINF:-1 channel-id="samsung-GB300033HI" tvg-id="GB300033HI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300033HI_20250218T040037SQUARE.png" group-title="Music" tvg-chno="4712",Now 90's & 00's
-https://jmp2.uk/stvp-GB300033HI
-#EXTINF:-1 channel-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20251013T235740SQUARE.png" group-title="Music" tvg-chno="4397",Vevo 2K
-https://jmp2.uk/stvp-USBB4400015F5
-#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20251013T235738SQUARE.png" group-title="Music" tvg-chno="4400",Vevo 2010s
-https://jmp2.uk/stvp-USBD120002431
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="DELUXE DANCE by Kontor.de" tvg-logo="https://smotret.tv/images/dlx-dance.webp" group-title="Music",DLX Dance
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-id="DELUXE MUSIC.de" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Music",DLX Music
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20250812T003400SQUARE.png" group-title="Music",XITE Hits
+https://d1tv319beetxim.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wtuzbb5c78yuk/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CABD1200038NZ
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20250812T003206SQUARE.png" group-title="Music",XITE 90s Throwback
+https://d2pfujqolhtjmo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b3q3ewsdi34yy/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CABB2600018T4
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20250421T234923SQUARE.png" group-title="Music",XITE 80s Flashback
+https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBB320000647
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20260203T191159SQUARE.png" group-title="Music",XITE Game Day Hits
+https://d33m2dcwuwzaia.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4g0r3vai0va2v/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CABD17000043J
+#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Music",Vevo '90s & '00s
+https://d1cj21il6keqa2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1jatv2dap12i7/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBC2100002HP
+#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Music",Vevo Pop 1
+https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBC19000017V
+#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Music",Vevo Pop 2
+https://amg00056-vevotv-vevopopau-samsungau-6lt65.amagi.tv/ts-us-w2-n2/playlist/amg00056-vevotv-vevopopau-samsungau/cb573f1f6570678d84cd3d78d1f54082af7b3dcb0e6c886470af4a9765d96e07d1feae9ab95bee6e578f6281335331045677895fd47d05c0c07ab1414329442fc587b37fde871219c4814d7f7cec320150fa090bd03747768bbe185cd73fb4345547ee5e2307638bec44ff7f50c19d0f8d797cdda5d5323979085dfd1567c598c50dddcb6f21ba7e97d5590ace7a0cc5bd78fba57f9b1b0096ac69b207b24dccb8ceb3379c9fa4a91aea13e33a0b4d2e3febe8cb4f842fd489ce1351b5623c471057f3afd9992459d513120da8ad8dd7ed98623634d66685d59f20e12451f693cc335587ab2185b8a9d05244768dd74f6029a2f0acb01d5459994bf4b8e0d17f7dd6a35a2807814cd626393799f98b45d29855bbb9218cb86c4678d2871fcac9e5cdbff9cd6d9926c1c8bbc96915003344248f4fa79c62c3668c2cff8043533127238c9451d689d05a42001ed0fa11be742eb7d0858cc80041bc471e54ed72d058454dc2307e73ec29b9b7336e802a0fc75910f45a3c8c47bc8824faa9deef6468e33ea68b2dad43d3ba40607d2a0eb2255b34ce249fc80c9d/36/1920x1080_7333040/index.m3u8
+#EXTINF:-1  tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300033HI_20250218T040037SQUARE.png" group-title="Music",Now 90's & 00's
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT23000017K_20250107T022105SQUARE.png" group-title="Music",Deluxe Dance By Kontor
+https://d1hv2u2z671q4u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kw27y1n44wqla/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=AT23000017K
+#EXTINF:-1 tvg-id="DELUXE MUSIC.de" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="POWER TV HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png" group-title="Music",PowerTV HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="NUMBER1 TV HD.tr" tvg-logo="https://img.dsmartgo.com.tr/resize-height/400//content/j/vi/13592/Thumbnail.png" group-title="Music",NR1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="NUMBER1 TURK HD.tr" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/nr1turk-768x768.png" group-title="Music",NR1 Türk TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?md5=luKV0KINViaZnHNoGR4ByA
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="POWER TURK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" group-title="Music",PowerTürk HD
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2534.png?v=4" group-title="Music",PowerTürk TapTaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v=4" group-title="Music",PowerTürk Slow
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://img-puhutv.mncdn.com/media/img/content/23-01/26/kral.png" group-title="Music",KralPop TV HD
 https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?token=MS9jMzRnKzR2bEtZMWJmcWJ5YmVKYmtsVDFscTY1T1NjaFdGYjBqU3hWcz0=&sid=6e7u1ixnsxr8&app=f38a38b4-ce55-4040-8676-9826937d6128&ce=2
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="DREAM TÜRK.tr" tvg-logo="https://static.dreamturk.com.tr/assets/dist/images/dream-turk-logoV2.png" group-title="Music",DreamTürk TV
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk
