@@ -51,5 +51,3 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?token=MS9jMzRnKzR2bEtZMWJmcWJ5YmVKYmtsVDFscTY1T1NjaFdGYjBqU3hWcz0=&sid=6e7u1ixnsxr8&app=f38a38b4-ce55-4040-8676-9826937d6128&ce=2
 #EXTINF:-1 tvg-id="DREAM TÜRK.tr" tvg-logo="https://static.dreamturk.com.tr/assets/dist/images/dream-turk-logoV2.png" group-title="Music",DreamTürk TV
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk
-#EXTINF:-1 tvg-id="NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1280px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="TV",NOW TV
-https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1771581297&st=pYA-mm0Tb4rh92uhbe2ZLQ
